@@ -1,0 +1,2 @@
+# cnn-from-scratch
+Implement feedforward, convolution neural network in C++ with only built-in libraries. This is a tutorial style project which implements back propagation in neural networks without using external libraries. A 2D Tensor is defined and all the required Linear Algebra operations are defined to perform required computations. Both the networks are tested on mnist dataset which is attached along the project.
