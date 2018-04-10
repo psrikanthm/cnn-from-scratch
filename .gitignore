@@ -37,3 +37,6 @@
 
 # data files
 *.csv
+
+# mac file
+.DS_Store
